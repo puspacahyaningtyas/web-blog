@@ -1,10 +1,8 @@
 # web-blog
+Perkenalkan nama saya Puspa Cahyaning Tyas
+Ini adalah Github pertama saya
 
 
-Ini adalah latihan pertama sadya menggunakan Github
-Framework yang saya gunakan adalah Codeigniter versi 3 menggunakan template CMS Sekolahku
 
 
-INI PERUBAHAN baru lagi yaa ....
 
-====== Puspa  Cahyaning Tyas =====
